@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LegoTetris</string>
+    <string name="newGame">NEW GAME</string>
+    <string name="score">SCORE</string>
+    <string name="quit">QUIT</string>
+    <string name="continueGame">CONTINUE</string>
+    <string name="next">NEXT</string>
+    <string name="textScore">SCORE</string>
+</resources>
